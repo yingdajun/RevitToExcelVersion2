@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiElementDemo", "ArchiElementDemo\ArchiElementDemo.csproj", "{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Debug|x64.ActiveCfg = Debug|x64
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Debug|x64.Build.0 = Debug|x64
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Release|x64.ActiveCfg = Release|x64
+		{DE94586E-1B68-4CF4-9B90-7C9835CA8BD8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C10B1E-9610-454A-A7DC-01968CA42A84}
+	EndGlobalSection
+EndGlobal
